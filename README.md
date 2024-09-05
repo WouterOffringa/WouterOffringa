@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **WouterOffringa/WouterOffringa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Master Student Aerospace Engineering following the Sustainable Air Transport track. Next to my studies I am a avid runner and home cook.
+I am a Master Student Aerospace Engineering following the Sustainable Air Transport track at the TU Delft. Next to my studies I am a avid runner and home cook.
